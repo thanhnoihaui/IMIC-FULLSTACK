@@ -1,4 +1,2 @@
 # IMIC-FULLSTACK
-test
-abcde
-dđ
+oke la
