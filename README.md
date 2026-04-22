@@ -1,2 +1,2 @@
 # IMIC-FULLSTACK
-oke la
+oke
